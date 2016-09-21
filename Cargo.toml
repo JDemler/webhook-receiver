@@ -1,0 +1,9 @@
+[package]
+name = "webhook-receiver"
+version = "0.1.0"
+authors = ["Jakob Demler <jdemler@curry-software.com>"]
+
+[dependencies]
+fastcgi = "1.0.0-beta"
+rust-crypto = "0.2.36"
+rustc-serialize = "0.3"
